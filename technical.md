@@ -10,54 +10,53 @@
 1. [XHTML을 이용한 페이지의 한계점은 무엇이 있나요?](#q-h04기술질문)
 1. [application/xhtml+xml으로 지정한 페이지에 어떠한 문제가 있나요?](#q-h05-기술질문)
 1. [다국어가 포함된 페이지는 어떤 방식으로 제공하나요?](#q-h06-기술질문)
-1. [다국어 페이지를 제공하는 여러 방법에 관해 설명해주세요.](#q-h07-기술질문)
-1. [data-속성은 무엇을 하는 것인가요? 사용했을 때 이점은 무엇인가요?](#q-h08-기술질문)
-1. [HTML5를 오픈 웹 플랫폼(open web platform)으로 생각해본다면, 어떤 것들로 구성돼 있을까요?](#q-h09-기술질문)
-1. [쿠키(Cookies)와 세션저장소(sessionStorage)와 로컬저장소(localStorage)의 차이점을 설명해주세요.](#q-h10-기술질문)
-1. [`<script>`, `<script async>`와 `<script defer>`의 차이점에 관해 설명해주세요.](#q-h11-기술질문)
-1. [CSS`<link>`를 `<head></head>`사이에 쓰는 것과 JS`<script>`를 `<body></body>`뒤에 사용하는 것은 좋은 사용법일까요? 어디에 배치하는 게 좋을까요?](#q-h12-기술질문)
-1. [Progressive rendering이란 무엇인가요?](#q-h13-기술질문)
-1. [이미지 태그에 srcset 속성을 사용하는 이유는 무엇인가요? 브라우저가 이 속성을 가진 콘텐츠를 평가할 때 사용하는 과정을 설명해보세요.](#q-h14-기술질문)
-1. [HTML templating language를 사용해 본 경험이 있나요?](#q-h15기술질문)
-1. [v시멘틱 마크업이 뭐라고 생각하는가?](#q-h16-기술질문)
-1. [웹표준과 웹접근성이 무엇인가?](#q-h17-기술질문)
-1. [UI가 무엇인가?](#q-h18-기술질문)
+1. [data-속성은 무엇을 하는 것인가요? 사용했을 때 이점은 무엇인가요?](#q-h07-기술질문)
+1. [HTML5를 오픈 웹 플랫폼(open web platform)으로 생각해본다면, 어떤 것들로 구성돼 있을까요?](#q-h08-기술질문)
+1. [쿠키(Cookies)와 세션저장소(sessionStorage)와 로컬저장소(localStorage)의 차이점을 설명해주세요.](#q-h09-기술질문)
+1. [`<script>`, `<script async>`와 `<script defer>`의 차이점에 관해 설명해주세요.](#q-h10-기술질문)
+1. [CSS`<link>`를 `<head></head>`사이에 쓰는 것과 JS`<script>`를 `<body></body>`뒤에 사용하는 것은 좋은 사용법일까요? 어디에 배치하는 게 좋을까요?](#q-h11-기술질문)
+1. [Progressive rendering이란 무엇인가요?](#q-h12-기술질문)
+1. [이미지 태그에 srcset 속성을 사용하는 이유는 무엇인가요? 브라우저가 이 속성을 가진 콘텐츠를 평가할 때 사용하는 과정을 설명해보세요.](#q-h13-기술질문)
+1. [HTML templating language를 사용해 본 경험이 있나요?](#q-h14기술질문)
+1. [v시멘틱 마크업이 뭐라고 생각하는가?](#q-h15-기술질문)
+1. [웹표준과 웹접근성이 무엇인가?](#q-h16-기술질문)
+1. [UI가 무엇인가?](#q-h17-기술질문)
 
 ### CSS 
 
 1. [class와 id의 차이점에 관해서 설명해주세요.](#q-c01-기술질문)
-1. [“reset” CSS가 무엇인지, 어떻게 유용한지 설명해주세요.](#q-c01-기술질문)
-1. [Floats가 어떻게 동작하는지 설명해주세요.](#q-c01-기술질문)
-1. [z-index에 관해 설명해주세요.](#q-c01-기술질문)
-1. [BFC(Block Formatting Context)에 관해 설명해주세요](#q-c01-기술질문)
-1. [클리어링(Clearing) 기술에는 어떤 것들이 있으며, 어떨 때 어떻게 사용하는 것이 적절한지 설명하세요.](#q-c01-기술질문)
-1. [CSS 스프라이트(CSS Sprites)를 설명하고, 페이지나 사이트를 어떻게 향상하는지 설명하세요.](#q-c01-기술질문)
-1. [Image Replacement를 사용해야 할 때, 선호하는 기술과 언제 사용하는지를 설명해주세요.](#q-c01-기술질문)
-1. [브라우저 스펙 차이에 따른 스타일링 이슈를 수정하기 위해서 어떻게 접근하나요?](#q-c01-기술질문)
-1. [기능이 제약된 브라우저를 위해서 어떤 방식으로 페이지를 만드나요?](#q-c01-기술질문)
-1. [어떠한 기술과 절차를 거치는지 설명하세요.](#q-c01-기술질문)
-1. [시각적으로 보이지 않고 스크린 리더에서만 가능하게 하는 방법에 관해 설명해주세요.](#q-c01-기술질문)
-1. [그리드 시스템(Grid system)을 사용한 적이 있나요? 있다면 어떠한 것을 선호하나요?](#q-c01-기술질문)
-1. [미디어 쿼리(media queries)를 사용한 적이 있나요? 혹은 모바일에 맞는 layout과 CSS를 사용한 적이 있나요?](#q-c01-기술질문)
-1. [SVG를 스타일링하는데 익숙하신가요?](#q-c01-기술질문)
-1. [인쇄하기 위해 웹페이지를 어떻게 최적화 하나요?](#q-c01-기술질문)
-1. [효율적인 CSS를 작성하기 위한 "비법(gotchas)"은 어떤 게 있나요?](#q-c01-기술질문)
-1. [CSS 전처리(CSS preprocessors)의 장단점은 어떤 게 있나요?](#q-c01-기술질문)
-1. [그렇다면, 사용 경험에 기반을 둬 좋았던 점과 나빴던 점을 설명해주세요.](#q-c01-기술질문)
-1. [페이지에서 표준 폰트가 아닌 폰트 디자인을 사용할 때 어떤 방식으로 처리하시나요? (웹폰트를 제외하고)](#q-c01-기술질문)
-1. [CSS Selector가 어떠한 원리로 동작하는지 설명해주세요.](#q-c01-기술질문)
-1. [pseudo-elements에 관해서 설명하고 어디에서 사용되는지 이야기해보세요.](#q-c01-기술질문)
-1. [box model에 관해 설명하고 브라우저에서 어떻게 동작하는지 설명해주세요.](#q-c01-기술질문)
-1. [* { box-sizing: border-box; }은 무엇이고 사용했을때 이점은 무엇인가요?](#q-c01-기술질문)
-1. [기억나는 display 속성에 대한 값들을 나열해보세요.](#q-c01-기술질문)
-1. [inline과 inline-block의 차이점은 무엇인가요?](#q-c01-기술질문)
-1. [요소를 배치하는 방법(relative, fixed, absolute, static) 간의 차이는 무엇인가요?](#q-c01-기술질문)
-1. [CSS에서 'C’는 Cascading을 의미합니다. Cascading에 관해서 설명해주세요. 또 cascading system의 장점은 무엇인가요?](#q-c01-기술질문)
-1. [CSS framework를 사용해본 적이 있으신가요? 실무에서 사용해보았다면 어떤 이점이 있었나요?](#q-c01-기술질문)
-1. [새로운 CSS Flexbox 혹은 Grid 스펙을 사용해 보신 적 있나요?](#q-c01-기술질문)
-1. [반응형(Responsive) 디자인은 적응형(Adaptive) 디자인과 어떤 차이점이 있나요?](#q-c01-기술질문)
-1. [반응형 디자인 작업시 모바일 우선 전략의 장점은 어떤 게 있나요?](#q-c01-기술질문)
-1. [v플렉스를 많이 사용했는데 크로스 브라우징은 고려하지 않았나?](#q-c01-기술질문)
+1. [“reset” CSS가 무엇인지, 어떻게 유용한지 설명해주세요.](#q-c02-기술질문)
+1. [Floats가 어떻게 동작하는지 설명해주세요.](#q-c03-기술질문)
+1. [float를 clear하는 방법 대표적으로 2가지만 말해달라.](#q-c04-기술질문)
+1. [z-index에 관해 설명해주세요.](#q-c05-기술질문)
+1. [BFC(Block Formatting Context)에 관해 설명해주세요](#q-c06-기술질문)
+1. [클리어링(Clearing) 기술에는 어떤 것들이 있으며, 어떨 때 어떻게 사용하는 것이 적절한지 설명하세요.](#q-c07-기술질문)
+1. [CSS 스프라이트(CSS Sprites)를 설명하고, 페이지나 사이트를 어떻게 향상하는지 설명하세요.](#q-c08-기술질문)
+1. [Image Replacement를 사용해야 할 때, 선호하는 기술과 언제 사용하는지를 설명해주세요.](#q-c09-기술질문)
+1. [브라우저 스펙 차이에 따른 스타일링 이슈를 수정하기 위해서 어떻게 접근하나요?](#q-c10-기술질문)
+1. [기능이 제약된 브라우저를 위해서 어떤 방식으로 페이지를 만드나요?](#q-c11-기술질문)
+1. [시각적으로 보이지 않고 스크린 리더에서만 가능하게 하는 방법에 관해 설명해주세요.](#q-c12-기술질문)
+1. [그리드 시스템(Grid system)을 사용한 적이 있나요? 있다면 어떠한 것을 선호하나요?](#q-c13-기술질문)
+1. [미디어 쿼리(media queries)를 사용한 적이 있나요? 혹은 모바일에 맞는 layout과 CSS를 사용한 적이 있나요?](#q-c14-기술질문)
+1. [SVG를 스타일링하는데 익숙하신가요?](#q-c15-기술질문)
+1. [인쇄하기 위해 웹페이지를 어떻게 최적화 하나요?](#q-c16-기술질문)
+1. [효율적인 CSS를 작성하기 위한 "비법(gotchas)"은 어떤 게 있나요?](#q-c17-기술질문)
+1. [CSS 전처리(CSS preprocessors)의 장단점은 어떤 게 있나요?](#q-c18-기술질문)
+1. [그렇다면, 사용 경험에 기반을 둬 좋았던 점과 나빴던 점을 설명해주세요.](#q-c19-기술질문)
+1. [페이지에서 표준 폰트가 아닌 폰트 디자인을 사용할 때 어떤 방식으로 처리하시나요? (웹폰트를 제외하고)](#q-c20-기술질문)
+1. [CSS Selector가 어떠한 원리로 동작하는지 설명해주세요.](#q-c21-기술질문)
+1. [pseudo-elements에 관해서 설명하고 어디에서 사용되는지 이야기해보세요.](#q-c22-기술질문)
+1. [box model에 관해 설명하고 브라우저에서 어떻게 동작하는지 설명해주세요.](#q-c23-기술질문)
+1. [* { box-sizing: border-box; }은 무엇이고 사용했을때 이점은 무엇인가요?](#q-c24-기술질문)
+1. [기억나는 display 속성에 대한 값들을 나열해보세요.](#q-c25-기술질문)
+1. [inline과 inline-block의 차이점은 무엇인가요?](#q-c26-기술질문)
+1. [요소를 배치하는 방법(relative, fixed, absolute, static) 간의 차이는 무엇인가요?](#q-c27-기술질문)
+1. [CSS에서 'C’는 Cascading을 의미합니다. Cascading에 관해서 설명해주세요. 또 cascading system의 장점은 무엇인가요?](#q-c28-기술질문)
+1. [CSS framework를 사용해본 적이 있으신가요? 실무에서 사용해보았다면 어떤 이점이 있었나요?](#q-c29-기술질문)
+1. [새로운 CSS Flexbox 혹은 Grid 스펙을 사용해 보신 적 있나요?](#q-c30-기술질문)
+1. [반응형(Responsive) 디자인은 적응형(Adaptive) 디자인과 어떤 차이점이 있나요?](#q-c31-기술질문)
+1. [반응형 디자인 작업시 모바일 우선 전략의 장점은 어떤 게 있나요?](#q-c32-기술질문)
+1. [v플렉스를 많이 사용했는데 크로스 브라우징은 고려하지 않았나?](#q-c33-기술질문)
 
 
 ### 기타 
@@ -85,7 +84,7 @@
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H02. 기술질문 
 
 <details open>
   <summary>표준모드(standards mode)와 쿽스모드(quirks mode)의 다른 점은 무엇인가요?</summary>
@@ -95,7 +94,7 @@
   - Standard mode의 결론은 오래되지 않은 웹 페이지들의 표준 모드 이다.
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H03. 기술질문 
 
 <details open>
   <summary>XML과 XHTML의 다른 점은 무엇인가요?</summary>
@@ -129,35 +128,28 @@ XHTML은 XML과 HTML을 결합하여 디자인 된 마크 업 언어입니다. X
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H04. 기술질문 
 
 <details open>
   <summary>XHTML을 이용한 페이지의 한계점은 무엇이 있나요?</summary>
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H05. 기술질문 
 
 <details open>
   <summary>application/xhtml+xml으로 지정한 페이지에 어떠한 문제가 있나요?</summary>
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H06. 기술질문 
 
 <details open>
   <summary>다국어가 포함된 페이지는 어떤 방식으로 제공하나요?</summary>
 
 </details>
 
-#### Q-H01. 기술질문 
-
-<details open>
-  <summary>다국어 페이지를 제공하는 여러 방법에 관해 설명해주세요.</summary>
-
-</details>
-
-#### Q-H01. 기술질문 
+#### Q-H07. 기술질문 
 
 <details open>
   <summary>data-속성은 무엇을 하는 것인가요? 사용했을 때 이점은 무엇인가요?</summary>
@@ -171,14 +163,14 @@ XHTML은 XML과 HTML을 결합하여 디자인 된 마크 업 언어입니다. X
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H08. 기술질문 
 
 <details open>
   <summary>HTML5를 오픈 웹 플랫폼(open web platform)으로 생각해본다면, 어떤 것들로 구성돼 있을까요?</summary>
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H09. 기술질문 
 
 <details open>
   <summary>쿠키(Cookies)와 세션저장소(sessionStorage)와 로컬저장소(localStorage)의 차이점을 설명해주세요.</summary>
@@ -194,7 +186,7 @@ XHTML은 XML과 HTML을 결합하여 디자인 된 마크 업 언어입니다. X
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H10. 기술질문 
 
 <details open>
   <summary><code>script</code>, <code>script async</code>와 <code>script defer</code>의 차이점에 관해 설명해주세요.</summary>
@@ -211,14 +203,14 @@ XHTML은 XML과 HTML을 결합하여 디자인 된 마크 업 언어입니다. X
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H11. 기술질문 
 
 <details open>
   <!-- <summary>CSS`<link>`를 `<head></head>`사이에 쓰는 것과 JS`<script>`를 `<body></body>`뒤에 사용하는 것은 좋은 사용법일까요? 어디에 배치하는 게 좋을까요?</summary> -->
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H12. 기술질문 
 
 <details open>
   <summary>Progressive rendering이란 무엇인가요?</summary>
@@ -230,7 +222,7 @@ XHTML은 XML과 HTML을 결합하여 디자인 된 마크 업 언어입니다. X
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H13. 기술질문 
 
 <details open>
   <summary>이미지 태그에 srcset 속성을 사용하는 이유는 무엇인가요? 브라우저가 이 속성을 가진 콘텐츠를 평가할 때 사용하는 과정을 설명해보세요.</summary>
@@ -241,14 +233,14 @@ srcset 속성에 각각 가로폭이 다른 이미지를 쉼표로 구분하여 
 
 </details>
 
-#### Q-H01. 기술질문 
+#### Q-H014. 기술질문 
 
 <details open>
   <summary>HTML templating language를 사용해 본 경험이 있나요?</summary>
 
 </details>
  
-#### Q-H01. 기술질문 
+#### Q-H15. 기술질문 
 
 <details open>
   <summary>시멘틱 마크업이 뭐라고 생각하는가?</summary>
@@ -260,7 +252,7 @@ srcset 속성에 각각 가로폭이 다른 이미지를 쉼표로 구분하여 
 > - 단순한 div , span 으로 둘러싸인 요소들보다 코드를 볼 때 가독성이 더 좋습니다.
 </details>
 
-#### Q-H17. 기술질문 
+#### Q-H16. 기술질문 
 
 <details open>
   <summary>웹표준과 웹접근성이 무엇인가?</summary>
@@ -268,7 +260,7 @@ srcset 속성에 각각 가로폭이 다른 이미지를 쉼표로 구분하여 
   웹접근성은 장애를 가진 사람과 장애를 가지지 않은 사람 모두가 웹사이트를 이용할 수 있게 하는 방식을 말한다. 
 </details>
 
-#### Q-H18. 기술질문 
+#### Q-H17. 기술질문 
 
 <details open>
   <summary>UI가 무엇인가?</summary>
@@ -279,20 +271,7 @@ srcset 속성에 각각 가로폭이 다른 이미지를 쉼표로 구분하여 
   - [인터페이스](https://medium.com/user-x/x1-ui%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-67c41a117a4a)
 </details>
 
-#### Q-H18. 기술질문 
 
-<details open>
-  <summary>float를 clear하는 방법 대표적으로 2가지만 말해달라.</summary>
-  
-  float에 float으로 대응하는 방법
-  장점 
-  -  부모에게 float 속성을 부여하게 되면 부모엘리먼트는 자식 엘리먼트의 높이를 반영합니다. 
-  단점 
-  -  하지만 부모 엘리먼트의 너비는 float된 두 자식의 너비를 담을만큼만 작게 줄어든다는 사실에 주목해 주세요. 부모의 너비가 브라우저 크기에 따라 가변적이어야 하는 경우에 적용하기 어려운 단점
-
-  참고하기 
-  - [인터페이스](https://medium.com/user-x/x1-ui%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-67c41a117a4a)
-</details>
 
 
 ### CSS 
@@ -311,7 +290,7 @@ srcset 속성에 각각 가로폭이 다른 이미지를 쉼표로 구분하여 
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C02. 기술질문 
 
 <details open>
   <summary>“reset” CSS가 무엇인지, 어떻게 유용한지 설명해주세요.</summary>
@@ -328,7 +307,7 @@ srcset 속성에 각각 가로폭이 다른 이미지를 쉼표로 구분하여 
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C03. 기술질문 
 
 <details open>
   <summary>Floats가 어떻게 동작하는지 설명해주세요.</summary>
@@ -355,7 +334,22 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C04. 기술질문 
+
+<details open>
+  <summary>float를 clear하는 방법 대표적으로 2가지만 말해달라.</summary>
+  
+  float에 float으로 대응하는 방법
+  장점 
+  -  부모에게 float 속성을 부여하게 되면 부모엘리먼트는 자식 엘리먼트의 높이를 반영합니다. 
+  단점 
+  -  하지만 부모 엘리먼트의 너비는 float된 두 자식의 너비를 담을만큼만 작게 줄어든다는 사실에 주목해 주세요. 부모의 너비가 브라우저 크기에 따라 가변적이어야 하는 경우에 적용하기 어려운 단점
+
+  참고하기 
+  - [인터페이스](https://medium.com/user-x/x1-ui%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-67c41a117a4a)
+</details> 
+
+#### Q-C05. 기술질문 
 
 <details open>
   <summary>z-index에 관해 설명해주세요.</summary>
@@ -364,21 +358,21 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C06. 기술질문 
 
 <details open>
   <summary>BFC(Block Formatting Context)에 관해 설명해주세요</summary>
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C07. 기술질문 
 
 <details open>
   <summary>클리어링(Clearing) 기술에는 어떤 것들이 있으며, 어떨 때 어떻게 사용하는 것이 적절한지 설명하세요.</summary>
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C08. 기술질문 
 
 <details open>
   <summary>CSS 스프라이트(CSS Sprites)를 설명하고, 페이지나 사이트를 어떻게 향상하는지 설명하세요.</summary>
@@ -393,14 +387,14 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C09. 기술질문 
 
 <details open>
   <summary>Image Replacement를 사용해야 할 때, 선호하는 기술과 언제 사용하는지를 설명해주세요.</summary>
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C10. 기술질문 
 
 <details open>
   <summary>브라우저 스펙 차이에 따른 스타일링 이슈를 수정하기 위해서 어떻게 접근하나요?</summary>
@@ -409,7 +403,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C11. 기술질문 
 
 <details open>
   <summary>기능이 제약된 브라우저를 위해서 어떤 방식으로 페이지를 만드나요?</summary>
@@ -418,15 +412,9 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
   - 점진적 향상 - 기본 수준의 사용자 환경에 대한 응용 프로그램을 구축하지만 브라우저가 이를 지원할 경우 기능을 강화하는 방법.
 
 </details>
- 
-#### Q-C01. 기술질문 
 
-<details open>
-  <summary>어떠한 기술과 절차를 거치는지 설명하세요.</summary>
-
-</details>
  
-#### Q-C01. 기술질문 
+#### Q-C12. 기술질문 
 
 <details open>
   <summary>시각적으로 보이지 않고 스크린 리더에서만 가능하게 하는 방법에 관해 설명해주세요.</summary>
@@ -446,14 +434,14 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C13. 기술질문 
 
 <details open>
   <summary>그리드 시스템(Grid system)을 사용한 적이 있나요? 있다면 어떠한 것을 선호하나요?</summary>
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C14. 기술질문 
 
 <details open>
   <summary>미디어 쿼리(media queries)를 사용한 적이 있나요? 혹은 모바일에 맞는 layout과 CSS를 사용한 적이 있나요?</summary>
@@ -462,7 +450,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C15. 기술질문 
 
 <details open>
   <summary>SVG를 스타일링하는데 익숙하신가요?</summary>
@@ -471,7 +459,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C16. 기술질문 
 
 <details open>
   <summary>인쇄하기 위해 웹페이지를 어떻게 최적화 하나요?</summary>
@@ -479,7 +467,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
   미디어 쿼리를 사용해 print 용 스타일을 따로 만듦.
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C17. 기술질문 
 
 <details open>
   <summary>효율적인 CSS를 작성하기 위한 "비법(gotchas)"은 어떤 게 있나요?</summary>
@@ -508,7 +496,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C18. 기술질문 
 
 <details open>
   <summary>CSS 전처리(CSS preprocessors)의 장단점은 어떤 게 있나요?</summary>
@@ -526,7 +514,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C019. 기술질문 
 
 <details open>
   <summary>그렇다면, 사용 경험에 기반을 둬 좋았던 점과 나빴던 점을 설명해주세요.</summary>
@@ -552,7 +540,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C20. 기술질문 
 
 <details open>
   <summary>페이지에서 표준 폰트가 아닌 폰트 디자인을 사용할 때 어떤 방식으로 처리하시나요? (웹폰트를 제외하고)</summary>
@@ -561,7 +549,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C21. 기술질문 
 
 <details open>
   <summary>CSS Selector가 어떠한 원리로 동작하는지 설명해주세요.</summary>
@@ -586,7 +574,7 @@ CSS `clear` 속성은 float 요소에 `left`/`right`/`both`에 위치하도록 �
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C22. 기술질문 
 
 <details open>
   <summary>pseudo-elements에 관해서 설명하고 어디에서 사용되는지 이야기해보세요.</summary>
@@ -601,7 +589,7 @@ https://css-tricks.com/almanac/selectors/a/after-and-before/
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C23. 기술질문 
 
 <details open>
   <summary>box model에 관해 설명하고 브라우저에서 어떻게 동작하는지 설명해주세요.</summary>
@@ -627,7 +615,7 @@ https://www.smashingmagazine.com/2010/06/the-principles-of-cross-browser-css-cod
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C24. 기술질문 
 
 <details open>
   <summary>* { box-sizing: border-box; }은 무엇이고 사용했을때 이점은 무엇인가요?</summary>
@@ -646,7 +634,7 @@ https://www.paulirish.com/2012/box-sizing-border-box-ftw/
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C25. 기술질문 
 
 <details open>
   <summary>기억나는 display 속성에 대한 값들을 나열해보세요.</summary>
@@ -655,7 +643,7 @@ https://www.paulirish.com/2012/box-sizing-border-box-ftw/
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C26. 기술질문 
 
 <details open>
   <summary>inline과 inline-block의 차이점은 무엇인가요?</summary>
@@ -673,7 +661,7 @@ https://www.paulirish.com/2012/box-sizing-border-box-ftw/
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C27. 기술질문 
 
 <details open>
   <summary>요소를 배치하는 방법(relative, fixed, absolute, static) 간의 차이는 무엇인가요?</summary>
@@ -693,7 +681,7 @@ https://www.paulirish.com/2012/box-sizing-border-box-ftw/
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C28. 기술질문 
 
 <details open>
   <summary>새로운 CSS Flexbox 혹은 Grid 스펙을 사용해 보신 적 있나요?</summary>
@@ -708,7 +696,7 @@ Grid는 그리드 기반의 레이아웃을 생성하기 위한 가장 직관적
 
 </details>
 
-#### Q-C01. 기술질문 
+#### Q-C29. 기술질문 
 
 <details open>
   <summary>CSS에서 'C’는 Cascading을 의미합니다. Cascading에 관해서 설명해주세요. 또 cascading system의 장점은 무엇인가요?</summary>
@@ -718,7 +706,7 @@ cascading system을 사용하였을 때의 장점은 HTML Element마다 일일�
 
 </details>
 
-#### Q-C01. 기술질문 
+#### Q-C30. 기술질문 
 
 <details open>
   <summary>CSS framework를 사용해본 적이 있으신가요? 실무에서 사용해보았다면 어떤 이점이 있었나요?</summary>
@@ -728,7 +716,7 @@ cascading system을 사용하였을 때의 장점은 HTML Element마다 일일�
 
 </details>
  
-#### Q-C01. 기술질문 
+#### Q-C31. 기술질문 
 
 <details open>
   <summary>반응형(Responsive) 디자인은 적응형(Adaptive) 디자인과 어떤 차이점이 있나요?</summary>
@@ -739,7 +727,7 @@ cascading system을 사용하였을 때의 장점은 HTML Element마다 일일�
 </details>
 
  
-#### Q-C01. 기술질문 
+#### Q-C32. 기술질문 
 
 <details open>
   <summary>반응형 디자인 작업시 모바일 우선 전략의 장점은 어떤 게 있나요?</summary>
@@ -751,9 +739,10 @@ cascading system을 사용하였을 때의 장점은 HTML Element마다 일일�
 
 </details>
 
-#### Q-C01. 기술질문 
+#### Q-C33. 기술질문 
 
 <details open>
   <summary>v플렉스를 많이 사용했는데 크로스 브라우징은 고려하지 않았나?</summary>
 
 </details>
+
